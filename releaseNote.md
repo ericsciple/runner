@@ -1,6 +1,6 @@
 ## What's Changed
 
-Matches actions/runner v2.315.0
+Matches actions/runner v2.315.0 + cherry-pick 2e0eb2c11f7c7216492f4496c1e7cc216ae26ce4
 
 ## New Contributors
 
