@@ -1,6 +1,6 @@
 ## What's Changed
 
-Matches actions/runner v2.315.0 + cherry-pick 4a1e38095b53ebdd9eed320756794de2fd8d1a0e
+Matches actions/runner v2.315.0 + cherry-pick 4a1e38095b53ebdd9eed320756794de2fd8d1a0e (debug build)
 
 ## New Contributors
 
